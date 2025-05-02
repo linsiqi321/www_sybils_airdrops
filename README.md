@@ -22,7 +22,7 @@ The dataset is saved in the **data** directory, including **invited data**, **tr
 - Extract features with transactions data
 
   ```{python}
-  python transactions_data_analysis
+  python transactions_data_analysis.py
   python transactions_data_graph.py
   ```
 
