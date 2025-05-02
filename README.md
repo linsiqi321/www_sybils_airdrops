@@ -1,6 +1,8 @@
 # www_sybils_airdrops
 
-**This repository is an official implementation of** *Catching Sybils in Web3 Airdrops: Unveiling and Detecting Sybil Addresses at Scale*
+**Official code for** "Airdrop Giving Is Never Easy: Unveiling and Detecting Sybil Behavior in Web3 Airdrops".
+
+For ease of use, we have made some changes to the original implementation in the paper.
 
 # Dataset
 
